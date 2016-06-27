@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughts on the EU referendum!"
+title:  "Thoughts on the EU referendum"
 date:   2016-06-27 14:47:39 +0100
 categories: eu
 ---
